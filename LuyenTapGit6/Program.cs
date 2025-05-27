@@ -12,7 +12,7 @@
         }
         public static void hello()
         {
-            Console.WriteLine("viet dep trai");
+            Console.WriteLine("viet dep trai123");
         }
     }
    
