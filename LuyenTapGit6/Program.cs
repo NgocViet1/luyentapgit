@@ -10,5 +10,10 @@
             Console.WriteLine("555");
 
         }
+        public static void hello()
+        {
+            Console.WriteLine("viet dep trai");
+        }
     }
+   
 }
